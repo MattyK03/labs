@@ -11,3 +11,12 @@ python -m http.server 8765
 ```
 
 Затем перейдите на http://localhost:8765
+
+## Публикация на GitHub
+
+```bash
+gh auth login
+gh repo create korshakova-labs-landing --public --source=. --remote=origin --push
+```
+
+После push можно включить **GitHub Pages**: Settings → Pages → Branch `main`, folder `/ (root)`.
