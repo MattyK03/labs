@@ -4,3 +4,6 @@ assets/8th/tour.mov
 .DS_Store
 Thumbs.db
 desktop.ini
+
+.vercel
+.env*
