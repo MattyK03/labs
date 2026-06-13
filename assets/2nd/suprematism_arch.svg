@@ -1,0 +1,43 @@
+<svg width="400" height="600" viewBox="0 0 400 600" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#e6d3b1"/>
+
+  <!-- Black rotated square -->
+  <g transform="translate(150 120) rotate(-45)">
+    <rect x="-90" y="-80" width="180" height="110" fill="#3b2a1f"/>
+  </g>
+
+  <!-- Green bar (top, angled) -->
+  <g transform="translate(200 170) rotate(-45)">
+    <rect x="-85" y="-41" width="100" height="20" fill="#6e4b2a"/>
+  </g>
+  <!-- Green bar (top, angled) -->
+  <g transform="translate(200 170) rotate(-45)">
+    <rect x="-50" y="-21" width="175" height="20" fill="#8a5a34"/>
+  </g>
+
+  <!-- Small red rectangle (top) -->
+  <g transform="translate(260 210) rotate(-45)">
+    <rect x="-35" y="-72" width="40" height="60" fill="#a3472f"/>
+  </g>
+
+  <!-- Vertical green line -->
+  <g transform="translate(-100 20) rotate(-3)">
+    <rect x="120" y="330" width="12" height="180" fill="#7a6a3a"/>
+  </g>
+
+  <!-- Orange circle -->
+  <circle cx="200" cy="420" r="28" fill="#c8892d"/>
+
+  <!-- Diagonal dark line -->
+  <g transform="rotate(40 300 450)">
+    <rect x="280" y="260" width="8" height="400" fill="#5a2f1f"/>
+  </g>
+
+  <!-- Bottom red rotated rectangle -->
+  <g transform="translate(300 480) rotate(40)">
+    <rect x="20" y="-40" width="48" height="80" fill="#b55239"/>
+  </g>
+
+</svg>

@@ -1,0 +1,54 @@
+<svg width="300" height="600" viewBox="0 0 300 600" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Head -->
+  <circle cx="150" cy="90" r="40" fill="#f2c9a0"/>
+
+  <!-- Neck -->
+  <rect x="135" y="120" width="30" height="20" fill="#f2c9a0"/>
+
+  <!-- Shirt -->
+  <path d="
+    M100 140 
+    Q150 120 200 140 
+    L220 260 
+    Q150 280 80 260 
+    Z
+  " fill="#cccccc"/>
+
+  <!-- Left arm -->
+  <path d="
+    M100 150 
+    Q70 180 80 260 
+    Q90 280 110 260 
+    L110 180 
+    Z
+  " fill="#f2c9a0"/>
+
+  <!-- Right arm -->
+  <path d="
+    M200 150 
+    Q230 180 220 260 
+    Q210 280 190 260 
+    L190 180 
+    Z
+  " fill="#f2c9a0"/>
+
+  <!-- Pants -->
+  <path d="
+    M80 260 
+    Q150 290 220 260 
+    L200 450 
+    L170 450 
+    L150 320 
+    L130 450 
+    L100 450 
+    Z
+  " fill="#777777"/>
+
+  <!-- Left leg -->
+  <rect x="100" y="450" width="35" height="100" rx="10" fill="#333333"/>
+
+  <!-- Right leg -->
+  <rect x="165" y="450" width="35" height="100" rx="10" fill="#333333"/>
+
+</svg>
